@@ -1,1 +1,1 @@
-# Vehicleownerinfo-from-car-numberplate
+# Vehicle-Owner-Info-from-car-numberplate-using-CNN
